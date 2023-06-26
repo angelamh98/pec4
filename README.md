@@ -8,7 +8,7 @@ Este proyecto realiza un análisis de sentimientos en tweets utilizando técnica
 
 ## Requisitos
 
-Python 3.x
+Python 3.10.9
 Librerías necesarias:
 zipfile
 os
@@ -20,6 +20,8 @@ matplotlib
 ## Instalación
 
 Clona o descarga este repositorio.
+
+https://github.com/angelamh98/pec4.git
 
 Navega hasta el directorio del proyecto.
 
